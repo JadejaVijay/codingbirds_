@@ -43,6 +43,20 @@ CREATE TABLE `bird_active_inactive_users` (
 INSERT INTO `bird_active_inactive_users` (`id`, `name`, `email`, `contact`, `status`) VALUES
 (1, 'Ankit kumar', 'cs.ankitprajapati@gmail.com', '7905266028', 1),
 (2, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(3, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(4, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(5, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(6, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(7, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(8, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(9, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(10, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(11, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(12, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(13, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(14, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(15, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
+(16, 'Manish Pal', 'manish.pal@gmail.com', '8251234225', 0),
 (3, 'Parth', 'parth.mishra@gmail.com', '9653125756', 1);
 
 --
